@@ -164,9 +164,23 @@ header {
   color: #8d8d8d;
 }
 
+main {
+  align-items: center;
+  display: flex;
+  margin: auto;
+}
+
 .banner {
   box-shadow: 10px 5px 5px rgb(194, 209, 214);
   border-radius: 10px;
-  margin: 20px;
-  width: 300px;
+  margin: auto;
+  width: 90%
+}
+
+.banner-box {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
 }
