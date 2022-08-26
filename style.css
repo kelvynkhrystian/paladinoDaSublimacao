@@ -30,6 +30,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  font-family: 'News Cycle', sans-serif;
   justify-content: flex-start;
 }
 
@@ -43,7 +44,7 @@ header {
 
 .header-top {
   align-items: center;
-  background-image: url("./imgs/outros/fundo02.png");
+  background-image: url("./imgs/outros/fundo01.png");
   background-size: cover;
   background-repeat: no-repeat;
   box-sizing: border-box;
@@ -69,7 +70,11 @@ header {
 
 .logo-carrinho {
   width: 30px;
-  
+  cursor: pointer;
+}
+
+.logo-carrinho:hover {
+  width: 35px;
 }
 
 .contador-carrinho {
@@ -117,6 +122,12 @@ header {
 
 .logo-filtro {
   width: 25px;
+  margin: 5px;
+}
+
+.logo-filtro:hover {
+  width: 30px;
+  cursor: pointer;
 }
 
 .logo-lupa {
@@ -125,11 +136,12 @@ header {
 
 .search-label {
   align-items: center;
+  background-color: rgb(255, 255, 255);
   border-radius: 20px;
   display: flex;
-  justify-content: center;
-  padding: 1px 5px;
-  background-color: rgb(255, 255, 255);
+  justify-content: flex-start;
+  padding: 2px 10px;
+  width: 95%;
 }
 
 .search-input {
@@ -137,10 +149,10 @@ header {
   border: none;
   border-radius: 20px;
   color: #02A7EB;
-  padding: 5px 10px;
   font-weight: 700;
   outline: none;
-  width: 320px;
+  padding: 5px 10px;
+  width: 100%;
 }
 
 .search-input::placeholder {
