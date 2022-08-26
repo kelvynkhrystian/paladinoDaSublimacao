@@ -25,3 +25,125 @@ img {
 }
 
 /* Mobile First  */
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: 'News Cycle', sans-serif;
+  justify-content: flex-start;
+}
+
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  
+}
+
+.header-top {
+  align-items: center;
+  background-image: url("./imgs/outros/fundo02.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 60px;
+  padding: 15px;
+  width: 100%;
+}
+.logo {
+  width: 40px;
+}
+
+.logo-paladino {
+  width: 120px;
+}
+
+.box-cart {
+  align-items: center;
+  display: flex;
+}
+
+.logo-carrinho {
+  width: 30px;
+  
+}
+
+.contador-carrinho {
+  background-color: white;
+  color: #02A7EB;
+}
+
+.header-bot {
+  align-items: center;
+  background-color: #02A7EB;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  height: 45px;
+  padding: 15px;
+  width: 100%;
+}
+
+.box-contador1 {
+  align-items: center;
+  background-color: white;
+  top: 10px;
+  right: 10px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+}
+
+.box-contador2 {
+  align-items: center;
+  background-color: white;
+  color: #02A7EB;
+  top: 60px;
+  right: 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  height: 17px;
+  width: 17px;
+}
+
+.logo-filtro {
+  width: 25px;
+}
+
+.logo-lupa {
+  width: 20px;
+}
+
+.search-label {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 1px 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+.search-input {
+  align-items: center;
+  border: none;
+  border-radius: 20px;
+  color: #02A7EB;
+  padding: 5px 10px;
+  font-weight: 700;
+  outline: none;
+  width: 320px;
+}
+
+.search-input::placeholder {
+  color: #8d8d8d;
+}
