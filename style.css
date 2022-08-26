@@ -134,6 +134,11 @@ header {
   width: 20px;
 }
 
+.logo-lupa:hover {
+  width: 22px;
+  cursor: pointer;
+}
+
 .search-label {
   align-items: center;
   background-color: rgb(255, 255, 255);
@@ -157,4 +162,11 @@ header {
 
 .search-input::placeholder {
   color: #8d8d8d;
+}
+
+.banner {
+  box-shadow: 10px 5px 5px rgb(194, 209, 214);
+  border-radius: 10px;
+  margin: 20px;
+  width: 300px;
 }
