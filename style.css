@@ -229,7 +229,8 @@ main {
   border: none;
   border-radius: 10px;
   font-family: 'News Cycle', sans-serif;
-  padding: 5px 50px;
+  font-weight: 700;
+  padding: 5px 20px;
   margin: 5px;
 }
 
