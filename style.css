@@ -51,7 +51,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: 85px;
+  height: 75px;
   padding: 15px;
   width: 100%;
 }
@@ -60,7 +60,7 @@ header {
 }
 
 .logo-paladino {
-  width: 175px;
+  width: 155px;
 }
 
 .box-cart {
@@ -142,7 +142,7 @@ header {
   border-radius: 50px;
   display: flex;
   justify-content: flex-start;
-  padding: 7px 10px;
+  padding: 4px 10px;
   width: 95%;
 }
 
