@@ -239,5 +239,49 @@ main {
 
 
 footer {
-  margin-top: 100px;
+  position:relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #02A7EB;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  height: 120px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: small;
+}
+
+.footer-p {
+  font-size: small;
+  margin: 5px;
+}
+
+.footer-box {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.informacoes {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.redes-sociais {
+  margin: 10px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-img {
+  width: 20px;
+  margin: 5px;
 }
