@@ -26,3 +26,5 @@ para então fazer com um atendente e realizar o pagamento.
 
 
 ![WhatsApp-Video-2022-08-29-at-23 41 31](https://user-images.githubusercontent.com/94154348/187337340-48e135da-9513-4a24-b003-97e849860ff1.gif)
+![sitePC](https://user-images.githubusercontent.com/94154348/188335797-194c32b1-6079-4c36-a3ab-0462a835d811.png)
+
