@@ -1,5 +1,11 @@
 # Loja de personalizados - Paladino da Sublimação
-## Status: Em progresso
+## Status: Cancelado em JS Puro e Continuado em React em outro repositório
+
+### Link Do Novo Repositório: https://github.com/kelvynkhrystian/paladino
+
+### Abaixo as últimas atualizações da aplicação em PC e Mobile
+
+![Design sem nome](https://user-images.githubusercontent.com/94154348/188336285-ce35888b-ff0d-40ec-80f4-0fd758234954.gif)
 
 ### Próximos ajustes:
 #### Ajustar a área dos produtos:
@@ -23,8 +29,3 @@ para então fazer com um atendente e realizar o pagamento.
 
 ### Ajuste final: 
 1. Responsividade Mobile e Desktop
-
-
-![WhatsApp-Video-2022-08-29-at-23 41 31](https://user-images.githubusercontent.com/94154348/187337340-48e135da-9513-4a24-b003-97e849860ff1.gif)
-![sitePC](https://user-images.githubusercontent.com/94154348/188335797-194c32b1-6079-4c36-a3ab-0462a835d811.png)
-
