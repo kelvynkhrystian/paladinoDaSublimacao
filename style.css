@@ -184,6 +184,14 @@ main {
   margin-top: 20px;
 }
 
+.banner-box2 {
+  align-items: center;
+  display: none;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
 .produtos-box {
   align-items: center;
   display: flex;
@@ -232,6 +240,7 @@ main {
   font-weight: 700;
   padding: 5px 20px;
   margin: 5px;
+  cursor:pointer;
 }
 
 footer {
@@ -283,4 +292,16 @@ footer {
 }
 
 /* slide cancelado temporariamente*/
+
+/* Responsividade PC */
+
+@media only screen and (min-width: 739px) {
+
+  .banner-box{
+    display: none;
+  }
+  .banner-box2{
+    display: flex;
+  }
+}
 
