@@ -5,7 +5,7 @@
 
 ### Abaixo as últimas atualizações da aplicação em PC e Mobile
 
-![Design sem nome](https://user-images.githubusercontent.com/94154348/188336285-ce35888b-ff0d-40ec-80f4-0fd758234954.gif)
+![Design sem nome](https://user-images.githubusercontent.com/94154348/188351799-e9d3ab58-4798-48a2-a595-145b69d8ac3b.gif)
 
 ### Próximos ajustes:
 #### Ajustar a área dos produtos:
